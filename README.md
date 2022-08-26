@@ -1,6 +1,6 @@
 # MQTT Desk Control
 
-These scripts allow you to control a desk with [MQTT](https://mqtt.org) an efficient bi-directional messaging protocol for IoT devices.
+These scripts allow you to control an electronic standing desk with [MQTT](https://mqtt.org) (an efficient bi-directional messaging protocol for IoT devices).
 
 ## Get started
 
